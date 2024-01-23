@@ -11,7 +11,7 @@
   </project>
   <project path="AnyKernel3" name="redducc/AnyKernel3" remote="github" revision="android12-5.10-sky" />
   <project path="hikey-modules" name="kernel/hikey-modules" revision="android12-5.10" />
-  <project path="common" name="sm4450-development/android_kernel_common" remote="github" revision="android12-5.10-sky" />
+  <project path="common" name="redducc/android_kernel_common" remote="github" revision="android12-5.10-sky" />
   <project path="kernel/tests" name="kernel/tests" />
   <project path="kernel/configs" name="kernel/configs" />
   <project path="common-modules/virtual-device" name="kernel/common-modules/virtual-device" revision="android12-5.10" />
